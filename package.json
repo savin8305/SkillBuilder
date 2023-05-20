@@ -11,7 +11,7 @@
     "dev": "nodemon server.js",
     "start": "node server.js"
   },
-  "author": "Koushik Dutta",
+  "author": "akash",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.0",

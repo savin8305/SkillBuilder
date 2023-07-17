@@ -7,6 +7,10 @@
 
 ## Used tech stack
 
+
+
+
+
 ![JSX](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
@@ -19,13 +23,17 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
-![home](https://github.com/savin8305/SkillBuilder/assets/118232727/659a810d-cf2c-4b3e-ac78-9d45486173d0)
-![Screenshot (1![Screenshot (14211)](https://github.com/savin8305/SkillBuilder/assets/118232727/76f2959a-4a07-4229-ab8f-5dd06937b9a6)
-4215)](https://github.com/savin8305/SkillBuilder/assets/118232727/6e93a3e7-a01c-4d8c-a34e-73865b39675e)
 
+<br/>
+
+<br/>
+
+![home](https://github.com/savin8305/SkillBuilder/assets/118232727/b23bb8b4-c56a-4b94-9e38-cfe784e2b832)
 ![Screenshot (14216)](https://github.com/savin8305/SkillBuilder/assets/118232727/f7683431-0559-4397-b024-4365848f548f)
 ![Screenshot (14213)](https://github.com/savin8305/SkillBuilder/assets/118232727/1a86ec02-071e-4b02-baae-7b984971afd1)
 ![Screenshot (14212)](https://github.com/savin8305/SkillBuilder/assets/118232727/e399dc21-7918-4eb2-a089-107430f32035)
+
+
 
 ![Screenshot (14217)](https://github.com/savin8305/SkillBuilder/assets/118232727/47c3ccd7-757a-4eec-a746-4446835ee9ec)
 ![Screenshot (14214)](https://github.com/savin8305/SkillBuilder/assets/118232727/74dbbb2a-da38-4ddb-ad88-e0e9292b758e)
